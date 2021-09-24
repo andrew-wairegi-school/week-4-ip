@@ -1,7 +1,6 @@
 # Week 4 IP: Electric car-sharing Autolib Notebook
 
 ### By: Andrew Wairegi
-#### Date: 24/9/2021
 
 ## Description
 To be able to find out the most popular our of Day for picking up electric vehicles.
